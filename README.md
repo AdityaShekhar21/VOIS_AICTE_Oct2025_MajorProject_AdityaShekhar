@@ -1,59 +1,59 @@
+Netflix Content Trends Analysis
+Overview
 
-# Netflix Content Trends Analysis
-### Overview
+This project analyzes how Netflix’s content has evolved over time. It focuses on understanding the distribution of Movies vs. TV Shows, genre popularity, and contributions from different countries. The goal is to derive strategic insights that support future content acquisition and production decisions.
 
-With rising competition in the streaming industry, understanding how Netflix’s content has evolved is crucial. This project analyzes trends in Movies vs. TV Shows, genres, and country-wise contributions to derive strategic insights for future content planning.
+Problem Statement
 
-### Problem Statement
+The problem addressed in this project is Content Trends Analysis for Strategic Recommendations. The aim is to uncover how Netflix’s content distribution has changed across the years, enabling the identification of key genres, audience preferences, and opportunities for global content expansion.
 
-The problem addressed in this project is Content Trends Analysis for Strategic Recommendations. The aim is to uncover how Netflix’s content distribution has evolved over the years, enabling the identification of key genres, audience preferences, and opportunities for global content expansion.
+Objectives
 
-### Objectives
+Analyze the growth and distribution of Movies and TV Shows over the years.
 
-Analyze the growth and distribution of Movies and TV Shows over time.
-
-Identify the most common genres and observe changes in their popularity.
+Identify the most frequent genres and observe changes in their popularity.
 
 Compare country-wise contributions to evaluate global content diversity.
 
-Provide strategic recommendations for future content acquisition and production.
+Provide strategic recommendations for future content planning and production.
 
-### Significance of the Study
+Significance of the Study
 
-This analysis helps understand Netflix’s evolving content strategy and audience engagement patterns. It provides insights for:
+This analysis helps understand Netflix’s evolving content strategy and user engagement patterns. Insights from this study assist in:
 
-Strengthening global vs. local content balance.
+Balancing global and local content offerings
 
-Recognizing market trends and viewer preferences.
+Recognizing demand trends and viewer preferences
 
-Supporting informed investment in specific genres and regions.
+Identifying promising genres and regions for future investment
 
-### Dataset
+Dataset
 
 The dataset includes:
 
-Title Type (Movie/TV Show)
+Title Type (Movie or TV Show)
 
-Genre (listed_in)
+Genres (listed_in)
 
 Country of Origin
 
 Date Added / Release Year
 
 Rating and Duration
-Data Source: Public Netflix Titles Dataset
 
-### Tools & Technologies
+Source: Public Netflix Titles Dataset
+
+Tools & Technologies
 
 Python
 
 Pandas, NumPy
 
-Matplotlib / Seaborn / Plotly
+Matplotlib, Seaborn, Plotly
 
 Jupyter Notebook
 
-### Project Workflow
+Project Workflow
 
 Data Cleaning & Preprocessing
 
@@ -65,10 +65,9 @@ Insights Development
 
 Strategic Recommendation Formulation
 
-# Project Structure
-data/
-notebooks/
-visuals/
-README.md
-requirements.txt
-
+Project Structure
+├── data/
+├── notebooks/
+├── visuals/
+├── README.md
+└── requirements.txt
