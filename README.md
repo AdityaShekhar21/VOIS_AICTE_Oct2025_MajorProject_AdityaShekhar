@@ -1,17 +1,17 @@
 Netflix Content Trends Analysis
 Overview
 
-This project analyzes how Netflix’s content has evolved over time. It focuses on understanding the distribution of Movies vs. TV Shows, genre popularity, and contributions from different countries. The goal is to derive strategic insights that support future content acquisition and production decisions.
+This project analyzes how Netflix’s content has evolved over time. It focuses on the distribution of Movies vs. TV Shows, genre popularity, and country-wise contributions to derive strategic insights for future content acquisition and production.
 
 Problem Statement
 
-The problem addressed in this project is Content Trends Analysis for Strategic Recommendations. The aim is to uncover how Netflix’s content distribution has changed across the years, enabling the identification of key genres, audience preferences, and opportunities for global content expansion.
+The problem addressed in this project is Content Trends Analysis for Strategic Recommendations. The aim is to uncover how Netflix’s content distribution has changed across years, helping identify key genres, audience preferences, and opportunities for global content expansion.
 
 Objectives
 
 Analyze the growth and distribution of Movies and TV Shows over the years.
 
-Identify the most frequent genres and observe changes in their popularity.
+Identify the most frequent genres and examine changes in their popularity.
 
 Compare country-wise contributions to evaluate global content diversity.
 
@@ -19,13 +19,13 @@ Provide strategic recommendations for future content planning and production.
 
 Significance of the Study
 
-This analysis helps understand Netflix’s evolving content strategy and user engagement patterns. Insights from this study assist in:
+This analysis provides insights into Netflix’s evolving content strategy and user engagement patterns. It helps in:
 
-Balancing global and local content offerings
+Balancing global and local content offerings.
 
-Recognizing demand trends and viewer preferences
+Recognizing viewer trends and preferences.
 
-Identifying promising genres and regions for future investment
+Identifying regional and genre-specific investment opportunities.
 
 Dataset
 
@@ -66,6 +66,8 @@ Insights Development
 Strategic Recommendation Formulation
 
 Project Structure
+project-folder/
+│
 ├── data/
 ├── notebooks/
 ├── visuals/
