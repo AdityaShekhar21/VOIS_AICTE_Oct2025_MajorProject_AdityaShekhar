@@ -66,8 +66,9 @@ Insights Development
 Strategic Recommendation Formulation
 
 # Project Structure
-├── data/
-├── notebooks/
-├── visuals/
-├── README.md
-└── requirements.txt
+data/
+notebooks/
+visuals/
+README.md
+requirements.txt
+
